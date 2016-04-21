@@ -1,2 +1,2 @@
 # Bioinformatics-Algorithms
-Contains various bioinformatics algorithms that were learned in courses. 
+Contains various bioinformatics algorithms learned in courses. Feel free to take a look at my code!
